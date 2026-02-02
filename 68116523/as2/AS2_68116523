@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!--ข้อมูลพื้นฐานเว็บไซด์-->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="ICT12267การพัฒนาเว็บแอปพลิเคชันส่วนติดต่อกับผู้ใช้">
+    <meta name="author" content="Thanatorn Namkon">
+    <meta name="keywords" content="html css JS">
+    <title>68116523 Thanatorn Namkon </title>
+
+</head>
+<body>
+    <h1 style="color: blueviolet;"> ICT12267การพัฒนาเว็บแอปพลิเคชันส่วนติดต่อกับผู้ใช้</h1>
+    <hr>
+    <p style="color: blanchedalmond;"><small>ipsum dolor sit amet, consectetur adipisicing elit.</small> <ins>Doloribus, quo. Earum delectus animi reiciendis fuga alias libero expedita enim, repudiandae commodi.</ins>  Nostrum suscipit, minima totam ullam officiis a fugiat fugit.</p>
+    <p>Lorem <strong>ipsum dolor sit amet consectetur adipisicing elit.</strong> <del>Optio aspernatur voluptate amet error doloribus modi iste magni, quidem adipisci quod.</del></p>
+    <p>Lorem <b>ipsum dolor sit amet consectetur, adipisicing elit.</b>. <mark>Quisquam, fugit quidem. Error ad voluptas dolorem numquam ratione iste quod alias.</mark> Error ipsa quia recusandae cum tenetur eum doloribus facere mollitia?</p>
+    <p>Lorem <i>ipsum dolor sit amet, consectetur adipisicing elit.</i> Mollitia expedita quas deleniti illo tempore? Molestiae enim quibusdam, animi delectus a sit. Non alias ipsum perspiciatis sequi consectetur magnam, nesciunt quam architecto distinctio, accusamus veniam ut ea quae eveniet eaque excepturi.</p>
+    <p>Lorem <u>ipsum, dolor sit amet consectetur adipisicing elit.</u> Cupiditate fuga modi sequi nostrum libero veritatis amet at, nihil porro, magni tenetur exercitationem mollitia nulla numquam voluptas et. Natus, veniam esse. Nobis libero excepturi iste. Provident corporis, saepe corrupti consectetur maxime rem molestias inventore unde sed atque hic nulla fugit pariatur!</p>
+    <hr>
+    <h2 style="color: rgb(255,0,0);">สมการ</h2>
+    <E=mc style="color: rgba(110,0,0,0.5);" ></E>E=mc</sup>2</h3>
+    <h3 style="background-color: rgba(120,205,150,0.5);">คณะเทคโนโลยีสารสนเทศ</h3>
+    <hr>
+    <h1 style="color: rgba(120,205,150,0.5);">คณะเทคโนโลยีสารสนเทศ</h1>
+    <a href="https://www.spu.ac.th/fac/informatics/">คลิกเข้าสู่หน้าเว็บเทคโนโลยีสารสนเทศและการสื่อสาร</a>
+</body>
+</html>
